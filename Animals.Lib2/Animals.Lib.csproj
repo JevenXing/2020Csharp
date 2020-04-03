@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BabyCarriage.SDK\BabyCarriage.SDK.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BabyCarriage.SDK">
+      <HintPath>bin\Debug\netcoreapp3.1\BabyCarriage.SDK.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
