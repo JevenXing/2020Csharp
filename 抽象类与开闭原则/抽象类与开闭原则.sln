@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象类与开闭原则", "抽象类与开闭原则.csproj", "{BE77C1DE-6A9C-4818-8C73-95E79675A5BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE77C1DE-6A9C-4818-8C73-95E79675A5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE77C1DE-6A9C-4818-8C73-95E79675A5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE77C1DE-6A9C-4818-8C73-95E79675A5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE77C1DE-6A9C-4818-8C73-95E79675A5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

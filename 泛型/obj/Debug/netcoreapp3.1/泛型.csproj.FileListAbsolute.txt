@@ -1,0 +1,11 @@
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\泛型\bin\Debug\netcoreapp3.1\泛型.exe
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\泛型\bin\Debug\netcoreapp3.1\泛型.deps.json
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\泛型\bin\Debug\netcoreapp3.1\泛型.runtimeconfig.json
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\泛型\bin\Debug\netcoreapp3.1\泛型.runtimeconfig.dev.json
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\泛型\bin\Debug\netcoreapp3.1\泛型.dll
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\泛型\bin\Debug\netcoreapp3.1\泛型.pdb
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\泛型\obj\Debug\netcoreapp3.1\泛型.csprojAssemblyReference.cache
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\泛型\obj\Debug\netcoreapp3.1\泛型.AssemblyInfoInputs.cache
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\泛型\obj\Debug\netcoreapp3.1\泛型.AssemblyInfo.cs
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\泛型\obj\Debug\netcoreapp3.1\泛型.dll
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\泛型\obj\Debug\netcoreapp3.1\泛型.pdb

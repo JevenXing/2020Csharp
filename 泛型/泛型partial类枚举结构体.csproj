@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>泛型.Program</StartupObject>
+    <ApplicationIcon />
+    <Win32Resource />
+    <RootNamespace>泛型partial类枚举结构体</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Database1.mdf" />
+    <None Remove="Database1_log.ldf" />
+  </ItemGroup>
+
+</Project>
