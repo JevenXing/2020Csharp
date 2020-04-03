@@ -1,0 +1,14 @@
+C:\Users\XINGW\Desktop\CSharp基础巩固\0922.10.操作符_方法的简记法\基本操作符_1\obj\Debug\基本操作符_1.csprojAssemblyReference.cache
+C:\Users\XINGW\Desktop\CSharp基础巩固\0922.10.操作符_方法的简记法\基本操作符_1\obj\Debug\基本操作符_1.csproj.CoreCompileInputs.cache
+C:\Users\XINGW\Desktop\CSharp基础巩固\0922.10.操作符_方法的简记法\基本操作符_1\bin\Debug\操作符.exe.config
+C:\Users\XINGW\Desktop\CSharp基础巩固\0922.10.操作符_方法的简记法\基本操作符_1\bin\Debug\操作符.exe
+C:\Users\XINGW\Desktop\CSharp基础巩固\0922.10.操作符_方法的简记法\基本操作符_1\bin\Debug\操作符.pdb
+C:\Users\XINGW\Desktop\CSharp基础巩固\0922.10.操作符_方法的简记法\基本操作符_1\obj\Debug\操作符.exe
+C:\Users\XINGW\Desktop\CSharp基础巩固\0922.10.操作符_方法的简记法\基本操作符_1\obj\Debug\操作符.pdb
+C:\Users\XINGW\Desktop\CSharp基础巩固\0922.10.操作符_方法的简记法\bin\Debug\操作符.exe.config
+C:\Users\XINGW\Desktop\CSharp基础巩固\0922.10.操作符_方法的简记法\bin\Debug\操作符.exe
+C:\Users\XINGW\Desktop\CSharp基础巩固\0922.10.操作符_方法的简记法\bin\Debug\操作符.pdb
+C:\Users\XINGW\Desktop\CSharp基础巩固\0922.10.操作符_方法的简记法\obj\Debug\基本操作符_1.csprojAssemblyReference.cache
+C:\Users\XINGW\Desktop\CSharp基础巩固\0922.10.操作符_方法的简记法\obj\Debug\基本操作符_1.csproj.CoreCompileInputs.cache
+C:\Users\XINGW\Desktop\CSharp基础巩固\0922.10.操作符_方法的简记法\obj\Debug\操作符.exe
+C:\Users\XINGW\Desktop\CSharp基础巩固\0922.10.操作符_方法的简记法\obj\Debug\操作符.pdb

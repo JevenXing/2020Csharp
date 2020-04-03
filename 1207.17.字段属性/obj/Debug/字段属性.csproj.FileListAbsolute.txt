@@ -1,0 +1,6 @@
+C:\Users\XINGW\OneDrive\CSharp基础巩固\1207.17.字段属性\字段属性\bin\Debug\字段属性.exe.config
+C:\Users\XINGW\OneDrive\CSharp基础巩固\1207.17.字段属性\字段属性\bin\Debug\字段属性.exe
+C:\Users\XINGW\OneDrive\CSharp基础巩固\1207.17.字段属性\字段属性\bin\Debug\字段属性.pdb
+C:\Users\XINGW\OneDrive\CSharp基础巩固\1207.17.字段属性\字段属性\obj\Debug\字段属性.csprojAssemblyReference.cache
+C:\Users\XINGW\OneDrive\CSharp基础巩固\1207.17.字段属性\字段属性\obj\Debug\字段属性.exe
+C:\Users\XINGW\OneDrive\CSharp基础巩固\1207.17.字段属性\字段属性\obj\Debug\字段属性.pdb

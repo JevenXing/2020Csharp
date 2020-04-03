@@ -1,0 +1,6 @@
+C:\Users\XINGW\OneDrive\CSharp基础巩固\0927.13.表达式 语句\bin\Debug\0912.13.表达式 语句.exe.config
+C:\Users\XINGW\OneDrive\CSharp基础巩固\0927.13.表达式 语句\bin\Debug\0912.13.表达式 语句.exe
+C:\Users\XINGW\OneDrive\CSharp基础巩固\0927.13.表达式 语句\bin\Debug\0912.13.表达式 语句.pdb
+C:\Users\XINGW\OneDrive\CSharp基础巩固\0927.13.表达式 语句\obj\Debug\表达式 语句.csprojAssemblyReference.cache
+C:\Users\XINGW\OneDrive\CSharp基础巩固\0927.13.表达式 语句\obj\Debug\0912.13.表达式 语句.exe
+C:\Users\XINGW\OneDrive\CSharp基础巩固\0927.13.表达式 语句\obj\Debug\0912.13.表达式 语句.pdb
