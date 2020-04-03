@@ -1,0 +1,12 @@
+C:\Users\jeven\OneDrive\CSharp基础巩固\2020.1.28委托\obj\Debug\2020.1.28委托.csprojAssemblyReference.cache
+C:\Users\jeven\OneDrive\CSharp基础巩固\2020.1.28委托\bin\Debug\2020.1.28委托.exe.config
+C:\Users\jeven\OneDrive\CSharp基础巩固\2020.1.28委托\bin\Debug\2020.1.28委托.exe
+C:\Users\jeven\OneDrive\CSharp基础巩固\2020.1.28委托\bin\Debug\2020.1.28委托.pdb
+C:\Users\jeven\OneDrive\CSharp基础巩固\2020.1.28委托\obj\Debug\2020.1.28委托.exe
+C:\Users\jeven\OneDrive\CSharp基础巩固\2020.1.28委托\obj\Debug\2020.1.28委托.pdb
+C:\Users\jeven\Desktop\CSharp基础巩固\2020.1.28委托\bin\Debug\2020.1.28委托.exe.config
+C:\Users\jeven\Desktop\CSharp基础巩固\2020.1.28委托\bin\Debug\2020.1.28委托.exe
+C:\Users\jeven\Desktop\CSharp基础巩固\2020.1.28委托\bin\Debug\2020.1.28委托.pdb
+C:\Users\jeven\Desktop\CSharp基础巩固\2020.1.28委托\obj\Debug\2020.1.28委托.csprojAssemblyReference.cache
+C:\Users\jeven\Desktop\CSharp基础巩固\2020.1.28委托\obj\Debug\2020.1.28委托.exe
+C:\Users\jeven\Desktop\CSharp基础巩固\2020.1.28委托\obj\Debug\2020.1.28委托.pdb

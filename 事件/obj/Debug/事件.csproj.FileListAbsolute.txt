@@ -1,0 +1,9 @@
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\事件\bin\Debug\事件.exe.config
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\事件\bin\Debug\事件.exe
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\事件\bin\Debug\事件.pdb
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\事件\obj\Debug\事件.csprojAssemblyReference.cache
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\事件\obj\Debug\事件.Properties.Resources.resources
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\事件\obj\Debug\事件.csproj.GenerateResource.cache
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\事件\obj\Debug\事件.exe
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\事件\obj\Debug\事件.pdb
+C:\Users\jeven\OneDrive\桌面\2020Csharp学习笔记\事件\obj\Debug\事件.MyForm.resources

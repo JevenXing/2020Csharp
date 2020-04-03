@@ -1,0 +1,162 @@
+﻿1、窗口快捷键
+记忆诀窍：
+
+凡跟窗口挂上钩的快捷键必有一个W（Windows）；
+Ctrl+W,W: 浏览器窗口 （浏览橱窗用有道的翻译是window shopping）
+
+Ctrl+W,S: 解决方案管理器 （Solution）
+
+Ctrl+W,C: 类视图 （Class）
+
+Ctrl+W,E: 错误列表 （Error）
+
+Ctrl+W,O: 输出窗口（输出Output；输出程序的的编译信息 ;可在vs中“工具”—-“选项”—-“调试”—-“输出窗口”进行配置需要查看哪些信息）
+
+Ctrl+W,P: 属性窗口 （属性 Property）
+
+Ctrl+W,T: 任务列表 （任务Task）
+
+Ctrl+W,X: 工具箱 （事实上工具应该是Tool 但t已被任务列表占用了 ；参照一些大神的记忆方法：“X”长得四通八达，而工具就有这样一个特点，所以属性的快捷键是“X”）
+
+Ctrl+W,B: 书签窗口 （书签 Bookmark 书签非常好用，如果有几千行代码，在寻找代码的时候添加书签找起来要快很多）
+
+Ctrl+W,U: 文档大纲 （OutLine；使用第二个字母U）
+
+Ctrl+D,B: 断点窗口 （breakpoint）
+
+Ctrl+D,I: 即时窗口 （immediately）
+
+2、项目功能快捷键**
+规律：
+
+ctrl是强制功能键
+shift有给项目增加功能
+CTRL + F6 /CTRL + TAB下一个文档窗口即活动窗体切换 （windows操作系统是alt+tab表示在任务之间切换
+
+CTRL + SHIFT + F6 /CTRL + SHIFT + TAB上一个文档窗口 （在windows系统操作中 相信大家都知道shift有相反的功能 哈哈 在这里体现了）
+
+F7: 查看代码 （WebForm开发里面，是查看后台代码）
+
+Shift+F7: 查看窗体设计器 (在后台cs文件的时候，这种方式很方便跳转到前台.aspx页面)
+
+Ctrl+Shift+N: 新建项目 （N是New新建的意思 那如果需要强制在项目中新建项目的话 自然就是组合键Ctrl+Shift+N）
+
+Ctrl+Shift+O: 打开项目 （Open）
+
+CTRL + SHIFT + C显示类视图窗口（C代表Class类的意思）
+
+CTRL + F4关闭文档窗口 （相信用过qq的大家都有使用alt+f4来关闭当前聊天窗口 想想用ctrl+tab在活动标签窗口切换就知道为什么关闭当前标签窗口是ctrl+f4）
+
+CTRL + SHIFT + E显示资源视图 （E代表Explorer资源管理器的意思）
+
+CTRL + SHIFT + B生成解决方案 （B代表Build生成的意思 其实用F6也可以实现）
+
+Shift+F6表示生成当前项目 (上面已经说过使用f6可以生成整个解决方案 那如果是当前项目的生成那自然就是加上功能键shift了 )
+
+F4 显示属性窗口 SHIFT + F4显示项目属性窗口
+
+Ctrl+Shift+S: 全部保存 （S代表Save保存的意思 这里表示全部保存是因为如果只是单个保存Ctrl+S跟整个项目没有任何瓜葛 而全部保存的概念应该是说在整个项目中 所以组合键中自然会有shift了哦）
+
+Ctrl+Shift+A: 新建项（A是Add的意思）
+
+Shift+Alt+C: 新建类 （shift是跟项目有关的功能键；Alt用的非常多，空格（用的非常多）旁；C是Class;而且添加类用的非常多；所以自然就是:Shift+Alt+C）
+
+3、查找相关快捷键
+Ctrl+F: 查找 （Find） Ctrl+Shift+F: 在文件中查找 (上面已经提过了shift是表示在项目中 所以如果需要在项目中的文件中查找的话 那自然就少不了Shift)
+F3: 查找下一个 （相信使用过windows系统的人都知道f3是查找的快捷键）
+Shift+F3: 查找上一个 （shift在此有反向的功能哦）
+Ctrl+H: 替换
+Ctrl+Shift+H: 在文件中替换
+
+4、代码快捷键
+Ctrl+E,D（ctrl+k,d） —-格式化全部代码 ;让你的代码瞬间整洁起来。
+
+Ctrl+E,F —-格式化选中的代码（如果你已经记住Ctrl+E+D是格式化全部代码的话 那你想想规律不就知道了吗 F不就在D的右边表示它是特定某一范围）
+
+Ctrl+K,C: 注释选定内容 （Comment）
+
+Ctrl+K,U: 取消选定注释内容 （UnComment）
+
+Ctrl+J /Ctrl+K,L: 智能提示 列出成员 （kernel核心内容 list列表 如果我们想查看一个对象具有的成员具体信息的时候试下这个快捷键吧）
+
+Ctrl+K,P: 参数信息 （kernel核心内容 Parameters参数 如果我们想查看一个方法的具体参数的时候这个组合键可是挺有用的哦）
+
+Ctrl+K,I: 快速查看信息（Infomation）
+
+Ctrl+K,S: 外侧代码（平时个人惯会时不时的用#region 用了region之后代码看起来就特别整洁 所以自然而然的就用**惯了这个）
+
+CTRL + M, CTRL + M 折叠或展开当前方法
+
+CTRL + M, CTRL + O 折叠所有方法
+
+CTRL + M, CTRL + L展开所有方法
+CTRL + M, CTRL + P展开所有方法
+
+Ctrl+M,P: 停止大纲显示 （用了region将代码折叠起来之后试试用这组组合键吧 体验一下折叠和展开的**吧 看着舒服的代码我相信你记住这对快捷键肯定是值得的）
+
+ctrl+shift+f10：自动添加using命名空间（在实例化对象的时候，使用的非常多）
+
+5、调试快捷键
+F5: 启动调试
+
+Ctrl+F5: 开始执行(不调试)
+
+Shift+F5: 停止调试
+
+Ctrl+Shift+F5: 重启调试
+
+F9: 启用/关闭断点
+
+Ctrl+F9: 停止断点
+
+Ctrl+Shift+F9: 删除全部断点
+
+F10: 逐过程
+Ctrl+F10: 运行到光标处
+F11: 逐语句
+
+6、编辑快捷键
+Shift+Alt+Enter: 切换全屏编辑（如果想一心一意的只写代码 让整个vs铺满全屏 感觉还不错哦）
+
+F12: 转到所调用过程或变量的定义
+
+Alt+F12: 查找符号(列出所有查找结果)
+
+shift+f12:查找所有引用（讲光标放在单词上， 然后按Shift + F12）
+
+Ctrl+U: 全部变为小写 (的sql语句全部转换成大写以提高性能 )
+
+Ctrl+Shift+U: 全部变为大写 （U表示Upper ）
+
+Ctrl+Shift+V: 剪贴板循环 （平时我们都只**惯用ctrl+c 和ctrl+v 大家可能还不知道事实上微软都已经帮我们把多次剪切的结果都保存了下来 记下这组快捷键吧 可以粘贴上几次剪切的结果 一用便知道它的强大厉害之处）
+
+Ctrl+Shift+L: 删除当前行 （这个很有用哦 因为大家常常会要删除多余的空行 哈哈 这组快捷键会让你省力不少）
+
+Ctrl+E,S: 查看空白(ctrl+r,w 和它一样可以查看空白或者说显示或隐藏tab标记)
+
+Ctrl+E,W: 自动换行 （代码太长还有滚动条，特别是写append(sql.toString)语句的时候，太长，所以这时候就不得不拖动滚动条，这样以后就可以换行显示了）
+
+Ctrl+G: 转到指定行 （通过情况下 我们想在跳转到具体某一行 用它太方便了）
+
+Shift+Alt+箭头键: 选择矩形文本 Alt+鼠标左按钮: 选择矩形文本
+
+CTRL + DELETE删除至词尾 CTRL + BACKSPACE删除至词头 SHIFT + TAB取消制表符
+
+Ctrl+左右箭头键:一次可以移动一个单词
+
+Ctrl+单击: 选中当前点击的整个单词
+
+SHIFT + END选择至行尾
+SHIFT + HOME选择至行开始处
+
+CTRL + SHIFT + END选择至文档末尾 CTRL + SHIFT + HOME选择至文档末尾开始
+
+CTRL + SHIFT + PAGE UP选择至本页前面 CTRL + SHIFT + PAGE DOWN选择至本页后面
+
+CTRL + PAGE DOWN光标定位到窗口上方 CTRL + PAGE UP光标定位到窗口下方
+
+CTRL + END文档定位到最后 CTRL + HOME文档定位到最前
+
+按两下tab快速**代码段（写for, foreach循环，或者try, 还有绑定事件方法）
+
+ctrl+减号：回退到光标上一次的位置（这个真心挺有用的）
